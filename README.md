@@ -4,7 +4,7 @@
 This web app utilizes command-line (node.js based) javascript, specifically node's express and file system packages, to route the api and HTML requests necessary to read and write note files input by the user.
 
 ## Heroku Link
-URL: https://note-taker-sm.herokuapp.com/notes
+URL: https://note-taker-sm.herokuapp.com/
 
 ## Table of Contents  
  1. [ Description. ](#description)  
