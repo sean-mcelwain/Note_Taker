@@ -31,4 +31,4 @@ For any question regarding this project, my preferred method of communication is
 
 <a name='screenshot'></a>
  ## Screenshot 
-![Screenshot](https://github.com/sean-mcelwain/note_taker/blob/main/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/sean-mcelwain/Note_Taker/main/screenshot.JPG)
