@@ -10,7 +10,10 @@ URL: https://note-taker-sm.herokuapp.com/notes
  1. [ Description. ](#description)  
  2. [ Installation. ](#installation)  
  3. [ Usage tips. ](#usage)   
- 7. [ Questions. ](#questions)  
+ 4. [ Questions. ](#questions)  
+ 5. [ Screenshot. ](#screenshot) 
+
+
 
  <a name='installation'></a>
  ## Installation 
@@ -19,8 +22,13 @@ URL: https://note-taker-sm.herokuapp.com/notes
  ## Usage 
 This Web App can be used through the Heroku deployment. To get to the Note utility, click "Get Started" on the landing page and then click on "Note Title" and "Note Text" to input a note.  Once both fields contatin text, a save iceon will appear in the top-right corner of the app.  Clicking on this icon will save the note to the left panel of the app where it can be accessed later.  A delete (trash can) icon will appear next to the saved note so that the user can delete the note. 
 
+<a name='questions'></a>
  ## Questions 
 GitHub Profile: https://github.com/sean-mcelwain.  
 Contact Me: sean.mcelwain.KUBootcamp@gmail.com.  
  
 For any question regarding this project, my preferred method of communication is via email. 
+
+<a name='screenshot'></a>
+ ## Screenshot 
+![Screenshot](https://github.com/sean-mcelwain/note_taker/blob/main/screenshot.jpg)
