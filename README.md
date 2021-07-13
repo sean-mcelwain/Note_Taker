@@ -11,7 +11,7 @@ URL: https://note-taker-sm.herokuapp.com/
  2. [ Installation. ](#installation)  
  3. [ Usage tips. ](#usage)   
  4. [ License. ](#license) 
- . [ Questions. ](#questions)  
+ 5. [ Questions. ](#questions)  
  5. [ Screenshot. ](#screenshot) 
 
 
